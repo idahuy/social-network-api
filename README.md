@@ -18,10 +18,10 @@
 This is a set of API for a social network that uses a MongoDB database so that the website can handle large amounts of unstructured data, Express.js for routing, Mongoose ODM, and the moment package to format time stamps.
 
 ## Walkthrough Videos
-[User Routes]()  
-[Friend Routes]()  
-[Thought Routes]() 
-[Reaction Routes]()
+[User Routes](https://drive.google.com/file/d/1joAxnUmd3OceWkfzgIMdPhin33qUMCwO/view)  
+[Friend Routes](https://drive.google.com/file/d/1tMhxzHI-XCa6hxF55UuhPHRZ74W22bGq/view)  
+[Thought Routes](https://drive.google.com/file/d/1C9QbiITunrIZtvc54_wF5psFLZLgbGEk/view) 
+[Reaction Routes](https://drive.google.com/file/d/17_5uj--0qgkdlb0XZm1Gw2Run8CowB3q/view)
 
 ## Installation:
 This repo is not to be deployed, if you wanted to, you could by doing the following:  
