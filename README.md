@@ -1,11 +1,12 @@
 # Social-Network-API
 
-![](https://img.shields.io/badge/Database-MongoDB-purple?style=flat-square&logo=mongoDB)  
-![](https://img.shields.io/badge/npm%20package-express-pink?style=flat-square&logo=npm) 
-![](https://img.shields.io/badge/npm%20package-mongoose-blue?style=flat-square&logo=npm) 
-![](https://img.shields.io/badge/npm%20package-moment-%3CCOLOR%3E?style=flat-square&logo=npm)
+## Technology
+* MongoDB
+* Express
+* Mongoose
+* Moment
 
- ## Table of Contents:  
+## Table of Contents:  
 [1. Description](#Description)  
 [2. Acceptance Criteria](#Acceptance-Criteria)  
 [3. Walkthrough Videos](#Walkthrough-Videos)  
